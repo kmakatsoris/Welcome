@@ -44,22 +44,22 @@ I'm a Fullstack Developer and DevOps Engineer with a passion for creating effici
 ### [📦 LearnSkillsByVR](#)
 _Description_: My first web application was for a client in the health and education industry.  
 _Tech Stack_: .NET Core, React, C#, Git, Postman, Typescript, Javascript, Html, CSS
-_Repository_: [Link to repository](#)
+_Repository_: [https://github.com/kmakatsoris/LearnSkillsByVR/blob/master/README.md](#)
 
 ### [🔧 Portfolio.System](#)
 _Description_: The Portfolio System's Solution Architecture.  
 _Tech Stack_: Nginx, Docker, Bash Scripting, Git
-_Repository_: [Link to repository](#)
+_Repository_: [https://github.com/kmakatsoris/Portfolio.System/blob/master/README.md](#)
 
 ### [💻 Portfolio.Client](#)
 _Description_: The Portfolio's UI. The interesting part is that i did not use any Library(excluded React's defaults) to create all the components and functionality to demonstrate my skills.  
 _Tech Stack_: React, Typescript, Javascript, Html, CSS, Git
-_Repository_: [Link to repository](#)
+_Repository_: [https://github.com/kmakatsoris/Portfolio.Client/blob/master/README.md](#)
 
 ### [💻 Portfolio.BackEnd](#)
 _Description_: The Portfolio's BackEnd and Server's Workers.
 _Tech Stack_: .NET Core v8, C#, Postman, Bash Scripting, RESTfull, Git
-_Repository_: [Link to repository](#)
+_Repository_: [https://github.com/kmakatsoris/Portfolio.Core/blob/master/README.md](#)
 
 ---
 
